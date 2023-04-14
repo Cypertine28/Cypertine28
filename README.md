@@ -44,6 +44,12 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|
 
 
+**Coding Profiles**
+
+<a href="https://www.hackerrank.com/username"><img title="Hackerrank" alt="Hackerrank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png"></a> |<a href="https://www.sublimetext.com/"><img title="Sublime" alt="Sublime" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>|<img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/77px-GeeksforGeeks.svg.png">
+|--|--|--|
+
+
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="">
