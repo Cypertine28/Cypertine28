@@ -12,6 +12,8 @@
 
 These are some of the major technologies that I use or have worked on in the past:
 
+<div align="center">
+
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="java" title="java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
@@ -61,7 +63,7 @@ Github |  Sublime | VS Code |  Git  | Jupyter Notebook
 Hackerrank |  Leetcode | GFG Practice
 
 
-<h4> Connect with me🤝: <h4>
+<!-- <h4> Connect with me🤝: <h4>
   </hr>
   <a href="">
    <img align="left" alt=" Akash Panzade | Linkedin" width="44px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -72,4 +74,17 @@ Hackerrank |  Leetcode | GFG Practice
    <a href="https://github.com/">
     <img align="left" alt="Akash Panzade| Github" width="46px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <br>
+  <br> -->
+
+  
+  <h4> Connect with me🤝: <h4>
+  <a href="https://www.linkedin.com/in/">
+    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
+  </a>
+  <a href="https://instagram.com/">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+  </a>
+  <a href="mailto:@gmail.com">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+  </a>
+</div>
