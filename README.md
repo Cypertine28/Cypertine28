@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"/>
 </div>
-<h1>Hi There, I'm Akash Panzade <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<!-- <h1>Hi There, I'm Akash Panzade <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=700&size=40&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=1000&height=100&lines=Hi+There+!;Welcome+to+my+Github+Profile.;I+am+Akash+Panzade.)](https://git.io/typing-svg)
 
 ---
 
