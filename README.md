@@ -3,8 +3,7 @@
 </div>
 <!-- <h1>Hi There, I'm Akash Panzade <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=700&size=40&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=1000&height=100&lines=Hi+There+!;Welcome+to+my+Github+Profile.;I+am+Akash+Panzade.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=700&size=40&duration=2000&pause=1000&color=1bd2f2&center=true&vCenter=true&width=1000&height=50&lines=Hi+There+!;Welcome+to+my+Github+Profile.;I+am+Akash+Panzade.)](https://git.io/typing-svg)
 ---
 
 
