@@ -8,17 +8,20 @@
 <img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200px">
 
 <div align="center">
-  <h3> About Me </h3>
+<h3>About Me</h3>
 </div>
-<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200px"/> -->
- 
-  🎓 &nbsp;I'm currently pursuing my M.tech in Computer Science and Engineering at IIT Kanpur.\
-  🔭 &nbsp;I’m currently working on something cool :wink: \
-  💬 &nbsp;Ask me about anything related to ML, DL, NLP, DSA or System Design .\
-  💡 &nbsp;Some technologies I enjoy working with include ML/NLP, computer vision, Python, MySQL, Git, Linux.   \
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design. \
-  👨‍💻 All of my projects are available at [here](https://github.com/akash-panzade28?tab=repositories).  \
-  📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/akashpanzade28/)
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="50%" height="280px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I'm currently pursuing my M.tech in Computer Science and Engineering at IIT Kanpur.
+- 🔭 I’m currently working on something cool :wink:.
+- 💬 Ask me about anything related to ML, DL, NLP, DSA or System Design. 
+- 💡 Some technologies I enjoy working with include ML/NLP, computer vision, Python, MySQL, Git, Linux.
+- 👨‍💻 All of my projects are available at [here](https://github.com/akash-panzade28?tab=repositories).
+- 💬 Ask me about anything, I am happy to help.
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/akashpanzade28/).
+
 
 
 <img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200px">
