@@ -70,7 +70,7 @@ Github |  Sublime | VS Code |  Git  | Jupyter Notebook
 
 **Coding Profiles**
 
-<a href="https://www.hackerrank.com/username"><img title="Hackerrank" alt="Hackerrank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png"></a> |<a href="https://www.sublimetext.com/"><img title="Sublime" alt="Sublime" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a> |<img title="VS Code" alt="VS Code" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZ_jx_vM0sK_Mb4vg2rT8qudAkiWjeeQOeVCYbVHqBZ-GCShWaF_dQlmsqAwKoQk0vgo&usqp=CAU"> 
+<a href="https://www.hackerrank.com/username"><img title="Hackerrank" alt="Hackerrank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png"></a> |<a href="https://leetcode.com/akashpanzade28/"><img title="Leetcode" alt="Leetcode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a> |<a href="https://auth.geeksforgeeks.org/user/akashpanzade28"><img title="GFG Practice" alt="GFG Practice" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZ_jx_vM0sK_Mb4vg2rT8qudAkiWjeeQOeVCYbVHqBZ-GCShWaF_dQlmsqAwKoQk0vgo&usqp=CAU"> </a>
 |--|--|--|
 Hackerrank |  Leetcode | GFG Practice
 
@@ -90,13 +90,13 @@ Hackerrank |  Leetcode | GFG Practice
 
   
   <h4> Connect with me🤝: <h4>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/akashpanzade28/">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:@gmail.com">
+  <a href="mailto:akash.panzade28@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
 <!-- </div> -->
