@@ -23,7 +23,10 @@
   <h2>  Skill Set  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
   </h2>
 </div>
+
 These are some of the major technologies that I use or have worked on in the past:
+
+
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="java" title="java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
