@@ -10,7 +10,9 @@
 <b>*About Me*:</b> 
 
   🎓 &nbsp;I'm currently pursuing my M.tech in Computer Science and Engineering at IIT Kanpur.\
-  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
+  🔭 &nbsp;I’m currently working on something cool :wink: \
+  💬 &nbsp;Ask me about anything related to ML, DL, NLP, DSA or System Design .\
+  💡 &nbsp;Some technologies I enjoy working with include ML/NLP, computer vision, Python, MySQL, Git, Linux.\ 
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
   👨‍💻 &nbsp;\
 
