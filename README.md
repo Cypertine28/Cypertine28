@@ -16,7 +16,7 @@
   💬 &nbsp;Ask me about anything related to ML, DL, NLP, DSA or System Design .\
   💡 &nbsp;Some technologies I enjoy working with include ML/NLP, computer vision, Python, MySQL, Git, Linux.   \
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design. \
-  👨‍💻 &nbsp;\
+  👨‍💻 All of my projects are available at [here](https://github.com/akash-panzade28?tab=repositories)
 
 <img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200px">
 <div align="center">
