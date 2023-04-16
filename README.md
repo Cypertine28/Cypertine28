@@ -5,25 +5,25 @@
 <!-- <h1>Hi There, I'm Akash Panzade <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=700&size=40&duration=2000&pause=1000&color=1bd2f2&center=true&vCenter=true&width=1000&height=50&lines=Hi+There+!;Welcome+to+my+Github+Profile.;I+am+Akash+Panzade.)](https://git.io/typing-svg)
----
+<img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200px">
 
-<b>*About Me*:</b> 
+<div align="center">
+  <h3> About Me </h3>
+</div>
 
   🎓 &nbsp;I'm currently pursuing my M.tech in Computer Science and Engineering at IIT Kanpur.\
   🔭 &nbsp;I’m currently working on something cool :wink: \
   💬 &nbsp;Ask me about anything related to ML, DL, NLP, DSA or System Design .\
-  💡 &nbsp;Some technologies I enjoy working with include ML/NLP, computer vision, Python, MySQL, Git, Linux.\ 
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
+  💡 &nbsp;Some technologies I enjoy working with include ML/NLP, computer vision, Python, MySQL, Git, Linux.   \
+  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design. \
   👨‍💻 &nbsp;\
 
----
-
-## Skill Set <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/>
-
+<img  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200px">
+<div align="center">
+  <h2>  Skill Set  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
+  </h2>
+</div>
 These are some of the major technologies that I use or have worked on in the past:
-
-<!-- <div align="center"> -->
-
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="java" title="java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
