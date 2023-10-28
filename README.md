@@ -73,26 +73,26 @@ Github |  Sublime | VS Code |  Git  | Jupyter Notebook
 Hackerrank |  Leetcode | GFG Practice
 
 
-<!-- <h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="">
-   <img align="left" alt=" Akash Panzade | Linkedin" width="44px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="">
-    <img align="left" alt="Akash Panzade | Gmail" width="46px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-   <a href="https://github.com/">
-    <img align="left" alt="Akash Panzade| Github" width="46px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br> -->
+ <h4> Connect with me🤝: <h4>
 
+  <a href="https://www.linkedin.com/in/akashpanzade28/">
+   <img align="left" alt=" Akash Panzade | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:akash.panzade28@gmail.com">
+    <img align="left" alt="Akash Panzade | Gmail" width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+   <a href="https://github.com/akash-panzade28">
+    <img align="left" alt="Akash Panzade| Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
   
+
+  <!--
   <h4> Connect with me🤝: <h4>
   <a href="https://www.linkedin.com/in/akashpanzade28/">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" />
   </a>
   <a href="mailto:akash.panzade28@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-  </a>
+  </a> -->
 <!-- </div> -->
  
