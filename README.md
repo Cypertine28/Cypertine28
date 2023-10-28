@@ -89,13 +89,10 @@ Hackerrank |  Leetcode | GFG Practice
   
   <h4> Connect with me🤝: <h4>
   <a href="https://www.linkedin.com/in/akashpanzade28/">
-    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
-  </a>
-  <a href="https://instagram.com/">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" />
   </a>
   <a href="mailto:akash.panzade28@gmail.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
 <!-- </div> -->
  
